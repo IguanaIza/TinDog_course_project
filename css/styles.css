@@ -1,0 +1,17 @@
+/* Main */
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+/* Classes */
+.container-fluid {
+    padding: 3% 15%;
+}
+
+/* IDs */
+#title {
+    background-color: #ff4c68;
+}
