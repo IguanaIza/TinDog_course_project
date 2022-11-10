@@ -141,13 +141,14 @@ FEATURES AND PRICING
 MEDIA
 =======================*/
 @media (max-width: 1199px) {
-    #phone {
+    #title-img {
         transform: rotate(0);
         width: 60%;
         position: static;
     }
 
-    #title {
+    #title .container-fluid {
+        padding: 3% 15% 12%;
         text-align: center;
     }
 }
