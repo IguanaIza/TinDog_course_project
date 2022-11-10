@@ -141,7 +141,7 @@ FEATURES AND PRICING
 /* ====================
 MEDIA
 =======================*/
-@media (max-width: 1199px) {
+@media screen and (max-width: 1199px) {
     #title-img {
         transform: rotate(0);
         width: 60%;
